@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Automation-CronJob-orange?style=for-the-badge">
 </p>  
 
-🔹 **Author:** *Your Name*  
+🔹 **Author:** *gautam krishna sharma*  
 🔹 **License:** MIT  
 
 ---
